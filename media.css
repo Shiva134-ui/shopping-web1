@@ -33,6 +33,11 @@
 }
 
 @media screen and (max-width: 680px) {
+    header {
+        width: 95%;
+        height: 95%;
+    }
+    
     header nav ul {
         display: none;
     }
