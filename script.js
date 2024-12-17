@@ -1,4 +1,4 @@
 document.getElementById('pay-btn').addEventListener('click', () => {
-    const upiLink = 'upi://pay?pa=8928405063@fam&pn=S%20Madesh&am=10.00&cu=INR';
+    const upiLink = 'upi://pay?pa=vijithulasi8@okhdfcbank&pn=Shiva%20Nadar&am=1.00&cu=INR';
     window.location.href = upiLink;
 });
